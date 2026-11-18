@@ -1,0 +1,23 @@
+{
+    "Name": "Nombre",
+    "Email": "Correo electrónico",
+    "Password": "Contraseña",
+    "Confirm Password": "Confirmar contraseña",
+    "Already registered?": "¿Ya tienes cuenta?",
+    "Register": "Registrarse",
+    "Log in": "Iniciar sesión",
+    "Remember me": "Recordarme",
+    "Forgot your password?": "¿Olvidaste tu contraseña?",
+    "Log Out": "Cerrar sesión",
+    "Profile": "Perfil",
+    "Save": "Guardar",
+    "Saved.": "Guardado.",
+    "Update Password": "Actualizar contraseña",
+    "Current Password": "Contraseña actual",
+    "New Password": "Nueva contraseña",
+    "Delete Account": "Eliminar cuenta",
+    "Cancel": "Cancelar",
+    "Email Password Reset Link": "Enviar enlace para restablecer contraseña",
+    "Reset Password": "Restablecer contraseña",
+    "Confirm": "Confirmar"
+}
